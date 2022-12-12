@@ -1,0 +1,258 @@
+{
+    "code": 200,
+    "msg": "",
+    "snapshotVos": [
+        {
+            "type": "futures",
+            "updateTime": 1656547199000,
+            "data": {
+                "assets": [
+                    {
+                        "asset": "USDT",
+                        "marginBalance": "5284.90274744",
+                        "walletBalance": "4970.33984738"
+                    }
+                ],
+                "position": [
+                    {
+                        "symbol": "BTCUSDT",
+                        "entryPrice": "20862.98293333",
+                        "markPrice": "20105.22059998",
+                        "positionAmt": "-3",
+                        "unRealizedProfit": "5564.04879999"
+                    },
+                    {
+                        "symbol": "XRPUSDT",
+                        "entryPrice": "0",
+                        "markPrice": "0.3292",
+                        "positionAmt": "0",
+                        "unRealizedProfit": "0"
+                    },
+                    {
+                        "symbol": "BNBUSDT",
+                        "entryPrice": "217.12828633",
+                        "markPrice": "219.43",
+                        "positionAmt": "300",
+                        "unRealizedProfit": "-5249.48589993"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "futures",
+            "updateTime": 1656633599000,
+            "data": {
+                "assets": [
+                    {
+                        "asset": "USDT",
+                        "marginBalance": "5300.93674185",
+                        "walletBalance": "4986.37384179"
+                    }
+                ],
+                "position": [
+                    {
+                        "symbol": "BTCUSDT",
+                        "entryPrice": "20862.98293333",
+                        "markPrice": "19936.9",
+                        "positionAmt": "-3",
+                        "unRealizedProfit": "5564.04879999"
+                    },
+                    {
+                        "symbol": "XRPUSDT",
+                        "entryPrice": "0",
+                        "markPrice": "0.332",
+                        "positionAmt": "0",
+                        "unRealizedProfit": "0"
+                    },
+                    {
+                        "symbol": "BNBUSDT",
+                        "entryPrice": "217.12828633",
+                        "markPrice": "219.49",
+                        "positionAmt": "300",
+                        "unRealizedProfit": "-5249.48589993"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "futures",
+            "updateTime": 1656719999000,
+            "data": {
+                "assets": [
+                    {
+                        "asset": "USDT",
+                        "marginBalance": "5305.82826706",
+                        "walletBalance": "4991.265367"
+                    }
+                ],
+                "position": [
+                    {
+                        "symbol": "BTCUSDT",
+                        "entryPrice": "20862.98293333",
+                        "markPrice": "19267.5",
+                        "positionAmt": "-3",
+                        "unRealizedProfit": "5564.04879999"
+                    },
+                    {
+                        "symbol": "XRPUSDT",
+                        "entryPrice": "0",
+                        "markPrice": "0.3136",
+                        "positionAmt": "0",
+                        "unRealizedProfit": "0"
+                    },
+                    {
+                        "symbol": "BNBUSDT",
+                        "entryPrice": "217.12828633",
+                        "markPrice": "216.6",
+                        "positionAmt": "300",
+                        "unRealizedProfit": "-5249.48589993"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "futures",
+            "updateTime": 1656806399000,
+            "data": {
+                "assets": [
+                    {
+                        "asset": "USDT",
+                        "marginBalance": "5330.05949775",
+                        "walletBalance": "5015.49659769"
+                    }
+                ],
+                "position": [
+                    {
+                        "symbol": "BTCUSDT",
+                        "entryPrice": "20862.98293333",
+                        "markPrice": "19241",
+                        "positionAmt": "-3",
+                        "unRealizedProfit": "5564.04879999"
+                    },
+                    {
+                        "symbol": "XRPUSDT",
+                        "entryPrice": "0",
+                        "markPrice": "0.3155",
+                        "positionAmt": "0",
+                        "unRealizedProfit": "0"
+                    },
+                    {
+                        "symbol": "BNBUSDT",
+                        "entryPrice": "217.12828633",
+                        "markPrice": "218.12",
+                        "positionAmt": "300",
+                        "unRealizedProfit": "-5249.48589993"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "futures",
+            "updateTime": 1656892799000,
+            "data": {
+                "assets": [
+                    {
+                        "asset": "USDT",
+                        "marginBalance": "5357.1828571",
+                        "walletBalance": "5042.61995704"
+                    }
+                ],
+                "position": [
+                    {
+                        "symbol": "BTCUSDT",
+                        "entryPrice": "20862.98293333",
+                        "markPrice": "19305.7",
+                        "positionAmt": "-3",
+                        "unRealizedProfit": "5564.04879999"
+                    },
+                    {
+                        "symbol": "XRPUSDT",
+                        "entryPrice": "0",
+                        "markPrice": "0.32131498",
+                        "positionAmt": "0",
+                        "unRealizedProfit": "0"
+                    },
+                    {
+                        "symbol": "BNBUSDT",
+                        "entryPrice": "217.12828633",
+                        "markPrice": "218.9870776",
+                        "positionAmt": "300",
+                        "unRealizedProfit": "-5249.48589993"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "futures",
+            "updateTime": 1656979199000,
+            "data": {
+                "assets": [
+                    {
+                        "asset": "USDT",
+                        "marginBalance": "5381.04145491",
+                        "walletBalance": "5066.47855485"
+                    }
+                ],
+                "position": [
+                    {
+                        "symbol": "BTCUSDT",
+                        "entryPrice": "20862.98293333",
+                        "markPrice": "20225",
+                        "positionAmt": "-3",
+                        "unRealizedProfit": "5564.04879999"
+                    },
+                    {
+                        "symbol": "XRPUSDT",
+                        "entryPrice": "0",
+                        "markPrice": "0.3284",
+                        "positionAmt": "0",
+                        "unRealizedProfit": "0"
+                    },
+                    {
+                        "symbol": "BNBUSDT",
+                        "entryPrice": "217.12828633",
+                        "markPrice": "231.39",
+                        "positionAmt": "300",
+                        "unRealizedProfit": "-5249.48589993"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "futures",
+            "updateTime": 1657065599000,
+            "data": {
+                "assets": [
+                    {
+                        "asset": "USDT",
+                        "marginBalance": "5407.42856774",
+                        "walletBalance": "5092.86566768"
+                    }
+                ],
+                "position": [
+                    {
+                        "symbol": "BTCUSDT",
+                        "entryPrice": "20862.98293333",
+                        "markPrice": "20175.92496997",
+                        "positionAmt": "-3",
+                        "unRealizedProfit": "5564.04879999"
+                    },
+                    {
+                        "symbol": "XRPUSDT",
+                        "entryPrice": "0",
+                        "markPrice": "0.32491011",
+                        "positionAmt": "0",
+                        "unRealizedProfit": "0"
+                    },
+                    {
+                        "symbol": "BNBUSDT",
+                        "entryPrice": "217.12828633",
+                        "markPrice": "230.6",
+                        "positionAmt": "300",
+                        "unRealizedProfit": "-5249.48589993"
+                    }
+                ]
+            }
+        }
+    ]
+}
